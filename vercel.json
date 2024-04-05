@@ -1,6 +1,6 @@
 {
   "rewrites": [
-    { "source": "/jeecg-boot/:url*", "destination": "http://139.224.206.212:8880/jeecg-boot/:url*" },
+    { "source": "/jeecg-boot/:url*", "destination": "http://139.224.206.212:8080/jeecg-boot/:url*" },
     { "source": "/:url*", "destination": "/index.html" }
   ]
 }
