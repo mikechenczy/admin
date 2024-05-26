@@ -1,0 +1,1 @@
+window.__PRODUCTION__004D004A7BA17406540E53F0__CONF__={"VITE_GLOB_APP_TITLE":"MJ管理后台","VITE_GLOB_API_URL":"https://admin.mjczy.top","VITE_GLOB_UPLOAD_URL":"/upload","VITE_GLOB_API_URL_PREFIX":""};Object.freeze(window.__PRODUCTION__004D004A7BA17406540E53F0__CONF__);Object.defineProperty(window,"__PRODUCTION__004D004A7BA17406540E53F0__CONF__",{configurable:false,writable:false,});
