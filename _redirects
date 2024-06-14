@@ -1,2 +1,2 @@
-/anno-admin-api/* http://ipv6.mjczy.top:8080/anno-admin-api/:splat	200
+/anno-admin-api/* http://proxymjczy.netlify.app/anno-admin-api/:splat	200
 /*    /index.html   200
