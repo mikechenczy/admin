@@ -1,2 +1,2 @@
-/anno-admin-api/* http://114.86.112.93:4679/adminbackend/anno-admin-api/:splat 200
+/anno-admin-api/* http://114.86.112.93:5518/adminbackend/anno-admin-api/:splat 200
 /* /index.html 200
